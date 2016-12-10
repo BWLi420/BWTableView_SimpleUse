@@ -12,5 +12,6 @@
 
 @property (weak, nonatomic) IBOutlet UILabel *titleL;
 
+/** 加载自定义 cell */
 + (instancetype) loadCell;
 @end
