@@ -1,14 +1,14 @@
 //
 //  ViewController.h
-//  BWTableView_SimpleUse
+//  tabDemo
 //
-//  Created by mortal on 16/12/10.
+//  Created by mortal on 15/12/7.
 //  Copyright © 2016年 mortal. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface BWTableViewController : UITableViewController
 
 
 @end
