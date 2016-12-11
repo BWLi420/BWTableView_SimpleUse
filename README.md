@@ -1,7 +1,6 @@
 # BWTableView_SimpleUse
 tableView的另类简单使用——点击 cell 展开详情页
 
-#### 效果图：
 ## 效果图：
 
 
